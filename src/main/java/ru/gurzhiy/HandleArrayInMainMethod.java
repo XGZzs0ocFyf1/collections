@@ -13,7 +13,6 @@ public class HandleArrayInMainMethod {
                 "mousepad", "mouse", "keyboard", "study", "daylight", "display", "pen", "laptop", "notebook",
                 "laptop", "keyboard", "pen", "display", "mousepad", "study",
                 "laptop", "pen", "study"
-
         };
 
         System.out.println("Array of words size " + arrayOfWords.length);
